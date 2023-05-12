@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.akrapp",
-      "sha256_cert_fingerprints":
-      ["6C:9A:76:43:C9:E4:F6:AF:73:A9:7D:43:B4:25:B4:D2:16:D0:39:B2:85:24:E4:B8:59:C7:63:09:66:E0:BB:66"]
-    }
-  }]
